@@ -4,7 +4,7 @@ description = ""
 weight = 3
 
 [extra]
-local_image ="developper.png"
+local_image ="static/images/developper.png"
 +++
 - Ce portfolio, construit avec Zola et hébergé sur GitHub Pages
 - SEO
