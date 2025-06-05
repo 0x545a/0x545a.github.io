@@ -68,7 +68,7 @@ Travailler dans le **service client en Roumanie** m’a appris bien plus que les
 timeline
 Sept. 2018 : 🎓 CPGE littéraire - Lycée Madame de Staël
 Juin 2019 : 🥁 Diplôme en percussions
-Juin 2021 : 📚 Double licence musicologie & philo
+Juin 2021 : 📚 Double licence musicologie & philosophie
 Sept. 2021 : 🎓 Master Musicologie - Tours
 Jan. 2024 : ✈️ Installation à Bucarest
 Fév. 2024 : 💼 Support client
