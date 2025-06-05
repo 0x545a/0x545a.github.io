@@ -4,8 +4,7 @@ description = ""
 weight = 1
 
 [extra]
-local_image ="gerer.jpg"
+local_image ="/images/gerer.jpg"
 +++
-
 - OCS Inventory et démarche ITIL
 - GLPI et gestion de tickets
