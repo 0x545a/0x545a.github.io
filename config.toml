@@ -1,6 +1,6 @@
 # The URL the site will be built for
-base_url = "http://127.0.0.1"
-title = "Théo Zuang"
+base_url = "https://0x545a.github.io"
+title = "0x545a's Portfolio"
 description = "Théo Zuang's IT portfolio"
 
 # Whether to automatically compile all Sass files in the sass directory
