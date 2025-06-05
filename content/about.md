@@ -12,7 +12,7 @@ Bloc M24, Scara 7, Apartament 413
 Bucureşti, Sector 6
 
 **📧 Email**  
-[theo.zuang@gmail.com](mailto:theo.zuang@gmail.com)
+[theozuang@gmail.com](mailto:theozuang@gmail.com)
 
 **📱 Téléphones**  
 🇷🇴 Roumanie : +40 774 586 434  
@@ -23,4 +23,3 @@ Bucureşti, Sector 6
 - 🐘 [Mastodon](https://infosec.exchange/@patapios_tsatsiki)
 - 💼 [LinkedIn](https://www.linkedin.com/in/théo-zuang-732a66363/)
 - 🐙 [GitHub](https://github.com/0x545a/)
-
