@@ -43,5 +43,5 @@ menu = [
     { name = "/contact", url = "/about", weight = 4 },
 ]
 repo_view = true
-repo_url = "https://github.com/not-matthias/apollo/tree/main/content/"
+repo_url = "https://github.com/0x545a/0x545a.github.io/tree/main/content/"
 toc = true
