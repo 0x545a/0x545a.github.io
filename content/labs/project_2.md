@@ -4,7 +4,7 @@ description = ""
 weight = 1
 
 [extra]
-local_image ="./gerer.jpg"
+local_image ="gerer.jpg"
 +++
 
 - OCS Inventory et démarche ITIL
