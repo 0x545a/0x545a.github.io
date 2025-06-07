@@ -45,3 +45,6 @@ menu = [
 repo_view = true
 repo_url = "https://github.com/0x545a/0x545a.github.io/tree/main/content/"
 toc = true
+
+[extra.analytics.goatcounter]
+user = "0x545a"
