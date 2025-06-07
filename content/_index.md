@@ -87,3 +87,6 @@ Juin 2025 : 📱 Agent de vente - Lacedo Com
 👉 [Mes projets de BTS](../projects) illustrent ma progression technique.
 
 👉 [Contact](./about)
+
+<script data-goatcounter="https://0x545a.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
